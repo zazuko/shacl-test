@@ -1,5 +1,12 @@
 # @zazuko/shacl-test
 
+## 0.1.2
+
+### Patch Changes
+
+- f09b688: Provide test run summary and exit with nonzero code when no tests are found
+- 87bd0b0: Updated dependencies
+
 ## 0.1.1
 
 ### Patch Changes
