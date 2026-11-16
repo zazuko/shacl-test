@@ -28,5 +28,9 @@
   },
   "devDependencies": {
     "@changesets/cli": "^3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zazuko/shacl-test"
   }
 }
