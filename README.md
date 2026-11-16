@@ -4,7 +4,7 @@ Runs SHACL shapes against a set of positive and negative test cases (data graphs
 
 Positive test cases are a simple fail/pass.
 Negative test cases are expected to fail and the validation report is compared against the
-expectation using [approvals](https://npm.im/approvals).
+expectation using [approvals](https://npm.im/@approval-tests/approvals).
 
 In case of failures, a [SHACL Playground](https://shacl-playground.zazuko.com) 
 link is provided for further investigation.
